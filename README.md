@@ -1,2 +1,2 @@
-# Cahe
+# Cache
 缓存
